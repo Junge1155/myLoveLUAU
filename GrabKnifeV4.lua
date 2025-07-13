@@ -1,4 +1,4 @@
-local p = game.Players.LocalPlayer
+local p = _G.Player
 spawn(function()
     fe = workspace.FilteringEnabled
     fe = false
